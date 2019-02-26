@@ -7,7 +7,10 @@ run the flamethrower app.
 
 ## Setup
 
-Ensure that you are using **Python 3.7**, as that is the 
+Ensure that you are using **Python 3.7**, as that is the Python interpreter
+that GCP uses.
+
+All functions must be in a file called main.py. 
 
 ## Functions
 
