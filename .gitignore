@@ -13,6 +13,7 @@ web/coverage
 web/build
 
 # misc
+web/package-lock.json
 web/.DS_Store
 web/.env.local
 web/.env.development.local
